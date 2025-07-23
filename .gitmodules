@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Tivy"]
+	path = Tivy
+	url = https://github.com/hansttito/tivy
 [submodule "copernicusR"]
 	path = copernicusR
 	url = https://github.com/hansttito/copernicusr
