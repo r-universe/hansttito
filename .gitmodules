@@ -8,3 +8,6 @@
 [submodule "copernicusR"]
 	path = copernicusR
 	url = https://github.com/hansttito/copernicusr
+[submodule "fb4package"]
+	path = fb4package
+	url = https://github.com/hansttito/fb4package
